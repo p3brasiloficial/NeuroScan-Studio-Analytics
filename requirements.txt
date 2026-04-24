@@ -6,5 +6,4 @@ librosa
 plotly
 scipy
 moviepy
-tensorflow
 deepface
