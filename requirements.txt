@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+librosa
+plotly
+scipy
+moviepy
+deepface
