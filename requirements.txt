@@ -6,6 +6,5 @@ librosa
 plotly
 scipy
 moviepy
-tensorflow-cpu
-tf-keras
+tensorflow
 deepface
