@@ -7,4 +7,5 @@ plotly
 scipy
 moviepy
 deepface
+tensorflow-cpu
 tf-keras
